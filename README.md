@@ -41,4 +41,4 @@ print(user_paths)
 
 ### Adding gdrive syncing
 
-I don't track large files with git so instead I create a bunch of shuttling functionality for each project.  In order for that to work, you need to have access to my google drive with a `client_secrets.json` file in the root of this repo (it won't be tracked by git either obviously).
+I don't track large files with git so instead I create a bunch of shuttling functionality for each project.  In order for that to work, you need to have access to my google drive with a `client_secrets.json` file in the root of this repo (it won't be tracked by git either obviously). This can be done by following the steps here https://pythonhosted.org/PyDrive/quickstart.html 
