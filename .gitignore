@@ -1,3 +1,12 @@
+# credentials for gdrive
+client_secrets.json
+
+
+
+
+
+#nbdev stuff
+
 *.bak
 .gitattributes
 .last_checked
